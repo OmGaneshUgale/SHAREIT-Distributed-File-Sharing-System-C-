@@ -82,13 +82,7 @@ Entry is added to Till Sent Messages.
 
 ### Sender → Receiver
 
- _________________             ___________________
-
-|                 |           |                   |
-
-|  SENDER SYSTEM  |----->---->|  RECEIVER SYSTEM  |
-
-|_________________|           |___________________|
+   SENDER SYSTEM  ----->---->  RECEIVER SYSTEM 
 
 
 #### Messages:
@@ -98,14 +92,7 @@ Entry is added to Till Sent Messages.
 
 ### Receiver → Sender
 
- _________________             ___________________
-
-|                 |           |                   |
-
-| RECEIVER SYSTEM |----->---->|   SENDER SYSTEM   |
-
-|_________________|           |___________________|
-
+   RECEIVER SYSTEM ----->---->   SENDER SYSTEM
 
 #### Acknowledgments:
 - Start message acknowledgment
